@@ -1,3 +1,6 @@
 # Display Data Drom Json into RecyclerView
 
-![Screenshot](images/JsonData_Images_App.jpg)
+
+<p align="center">
+   <img src="images/JsonData_App.jpg" width="324" height="500" ></img>
+</p>   
